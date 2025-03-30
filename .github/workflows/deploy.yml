@@ -10,7 +10,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: cluster0.ewqgv.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.ebi6srh.mongodb.net
       MONGODB_USERNAME: fishtrap
       MONGODB_PASSWORD: v6E5eEHQ9r0vZZzP
       PORT: 8080
